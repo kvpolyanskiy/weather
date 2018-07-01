@@ -3,8 +3,13 @@
 Before testing the app need to do next steps:
  - Get APPID and API version from openweathermap.org
  - create file .env.development or .env.development.local and add next keys:
-   - REACT_APP_OPEN_WEATHER_MAP_APPID=<APPID>
-   - REACT_APP_OPEN_WEATHER_MAP_API_VERSION=<API version>
+   - REACT_APP_OPEN_WEATHER_MAP_APPID
+   - REACT_APP_OPEN_WEATHER_MAP_API_VERSION
+
+  For example:
+
+    REACT_APP_OPEN_WEATHER_MAP_APPID=67af0567656b915f8ed5627bdea29e899
+    REACT_APP_OPEN_WEATHER_MAP_API_VERSION=2.5
 
 
 
